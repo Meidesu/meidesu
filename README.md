@@ -1,7 +1,7 @@
 # Hi there,
 <sup>メイです！</sup>
 
-### I'm a student of systems analysis and development and a game developer
+### I'm a student of systems analysis and development, and a game developer
 
 ## 🌐 Socials:
 <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1120320370218647622)--> 
